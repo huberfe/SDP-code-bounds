@@ -5,7 +5,18 @@ title: SDP bounds on quantum codes
 
 ## SDP bounds on quantum codes
 
-| **n \ d ** | **2**          | **3**                      | **4**                   | **5**                   | **6**         | **7** | **8**         |
+Upper and lower bounds on quantum error correcting codes.
+
+Upper bounds based on the SDP framework developed in 
+
+- Gerard Anglès Munné, Andrew Nemec, Felix Huber, *SDP bounds on quantum codes*, 
+https://arxiv.org/abs/2408.10323
+- Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
+
+Lower bounds based on constructions. (Exhaustive list see below)
+
+
+| **n** \ **d ** | **2**          | **3**                      | **4**                   | **5**                   | **6**         | **7** | **8**         |
 |-----------------------------|----------------|----------------------------|-------------------------|-------------------------|---------------|-------|---------------|
 | **7**                       | 24 - 26        | 2 - 3                      | 0                       | 0                       | 0             | 0     | 0             |
 | **8**                       | 64             |    8**(9)              | 1                       | 0                       | 0             | 0     | 0             |
