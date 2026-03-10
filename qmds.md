@@ -8,6 +8,8 @@ title: QMDS code bounds
 
 ## Upper and lower bounds for the highest distance in QMDS families
 
+Codes are marked with $$$$\ast$$ if lower and upper bounds meet.
+
 ### local dimension $$D=3$$.
 
 | **n+k** | **upper**                 | **lower**             |        |   |                               |
@@ -69,3 +71,6 @@ title: QMDS code bounds
 | $$ 46 $$         | $$[[ 46 , 0 , 24 ]]_5 $$ | $$[[ 26 , 20, 4 ]]_5 $$ |        |   | Grassl/Rötteler I              |
 | $$ 48 $$         | $$[[ 45 , 3 , 22 ]]_5 $$ | $$[[ 26 , 22, 3 ]]_5 $$ |        |   | Single-Error                   |
 
+
+### References:
+Table based on Felix Huber, Markus Grassl, *Quantum Codes of Maximal Distance and Highly Entangled Subspaces*, Quantum 4, 284 (2020), [https://arxiv.org/abs/1907.07733](https://arxiv.org/abs/1907.07733)
