@@ -4,19 +4,34 @@ layout: default
 
 ## Bounds on quantum codes.
 
-This repository focuses on specialised bounds:
+This repository focuses on bounds for specific quantum codes:
 
  1. [**AME bounds**](https://huberfe.github.io/ame) (absolutely maximally entangled states / perfect tensors))
  2. [**Mixed-dimensional AME bounds**](ame_mixed.md) (mixed dimensional AME/perfect tensors)
  3. [**QMDS bounds**](qmds.md) (quantum maximum distance separable codes)
  4. [**SDP bounds**](sdp.md)  (semidefinite programming bounds, also for non-additive codes)
-
- 
-  
   
 There is the great collection of bounds for additive/stabilizer quantum codes at [Code Tables](www.codetables.de).
- 
-### Other sites:
+
+
+
+## How to cite this repo
+
+Use this BibTeX entry:
+
+```
+@misc{quantum-code-bounds,
+  title = {Bounds on quantum codes},
+  author = {Felix Huber and contributors},
+  year = {2026},
+  howpublished = {GitHub repository},
+  url = {https://huberfe.github.io/quantum-code-bounds/}
+}
+```
+
+
+
+### Related sites:
 - [Optimization Constants in Mathematics](https://teorth.github.io/optimizationproblems/)
 - [Quantum MaxCut Reference](https://marwahaha.github.io/quantum-maxcut-reference/)
 - [Code Tables](https://www.codetables.de)
