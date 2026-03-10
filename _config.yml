@@ -6,3 +6,10 @@ kramdown:
 
 title: SDP bounds on quantum codes
 url: "https://huberfe.github.io/SDP-code-bounds"
+
+
+nav:
+ - name: "Home"
+   link: "index"
+ - name: "QMDS bounds"
+   link: "qmds"
