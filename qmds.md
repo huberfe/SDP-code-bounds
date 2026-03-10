@@ -1,3 +1,8 @@
+---
+layout: default
+title: Code bounds
+---
+
 # QMDS code bounds
 
 ## Upper and lower bounds for the highest distance in QMDS families
