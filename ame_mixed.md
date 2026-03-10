@@ -1,6 +1,23 @@
 ---
 layout: default
-title: Table of AME states
+title: Bounds on mixed dimensional AME states
 ---
 
-# Table of AME states
+## Existence of mixed dimensional AME states
+
+|
+| \(2 \times 3 \times 3 \times 3\) |  [HESG18] | 
+| \(2 \times 5 \times 5 \times 5\) |  [BZ25]   | 
+| \(3 \times 5 \times 5 \times 5\) |  [BZ25] | 
+| \(4 \times 5 \times 5 \times 5\) |  [BZ25] | 
+
+## Generic construction
+[BZ25], Theorem 9: If \(\psi_1, \dots, \psi_r\) is an orthonormal set of a pure codes
+\[ (\!( D_1, \dots, D_n), K \lceil r D_1 \dots D_n \rceil )\!) \]
+then there is a mixed-dimensional AME with dimensions \((r, D_1, \dots, D_n)\).
+
+
+## References
+[HESG18] Felix Huber, Christopher Eltschka, Jens Siewert, Otfried Gühne, *Bounds on absolutely maximally entangled states from shadow inequalities, and the quantum MacWilliams identity*,
+J. Phys. A: Math. Theor. 51 175301 (2018), [arXiv:1708.06298](https://arxiv.org/abs/1708.0629)
+[BZ25]  Simeon Ball, Raven Zhang, "Error-correcting codes and absolutely maximally entangled states for mixed dimensional Hilbert spaces", [arXiv:2510.17231](https://arxiv.org/abs/2510.17231)
