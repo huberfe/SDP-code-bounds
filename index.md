@@ -6,10 +6,10 @@ layout: default
 
 This repository focuses on specialised bounds:
 
- 1. [**AME bounds**](https://huberfe.github.io/ame) (bounds for absolutely maximally entangled states / perfect tensors))
- 2. [**Mixed-dimensional AME bounds**](ame_mixed.md) (bound for mixed dimensional AME/perfect tensors)
- 3. [**QMDS bounds**](qmds.md) (bounds for quantum maximum distance separable codes)
- 4. [**SDP bounds**](sdp.md)  (upper bounds based on semidefinite programming, also for non-additive codes)
+ 1. [**AME bounds**](https://huberfe.github.io/ame) (absolutely maximally entangled states / perfect tensors))
+ 2. [**Mixed-dimensional AME bounds**](ame_mixed.md) (mixed dimensional AME/perfect tensors)
+ 3. [**QMDS bounds**](qmds.md) (quantum maximum distance separable codes)
+ 4. [**SDP bounds**](sdp.md)  (semidefinite programming bounds, also for non-additive codes)
 
  
   
@@ -17,11 +17,11 @@ This repository focuses on specialised bounds:
 There is the great collection of bounds for additive/stabilizer quantum codes at [Code Tables](www.codetables.de).
  
 ### Other sites:
- - [Quantum MaxCut Reference](https://marwahaha.github.io/quantum-maxcut-reference/)
- - [Optimization Constants in Mathematics](https://teorth.github.io/optimizationproblems/)
- - [Code Tables](https://www.codetables.de)
+- [Optimization Constants in Mathematics](https://teorth.github.io/optimizationproblems/)
+- [Quantum MaxCut Reference](https://marwahaha.github.io/quantum-maxcut-reference/)
+- [Code Tables](https://www.codetables.de)
  
 Updates via pull requests ("improve this page" button below) 
-or email (felix.huber ät physik.uni-siegen.de) welcome.
+or email (felix PUNKT huber ät physik PUNKT uni-siegen PUNKT de) welcome.
 
  
