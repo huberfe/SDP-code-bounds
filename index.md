@@ -11,7 +11,7 @@ This repository focuses on bounds for specific quantum codes:
  3. [**QMDS bounds**](qmds.md) (quantum maximum distance separable codes)
  4. [**SDP bounds**](sdp.md)  (semidefinite programming bounds, also for non-additive codes)
   
-There is the great collection of bounds for additive/stabilizer quantum codes at [Code Tables](www.codetables.de).
+There is the great collection of bounds on additive/stabilizer quantum codes at [Code Tables](https://www.codetables.de).
 
 
 ### Related sites
