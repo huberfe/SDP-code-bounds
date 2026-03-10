@@ -10,4 +10,4 @@ Various bounds on quantum codes:
  - Bounds on quantum maximal distance seperable codes (QMDS)
  - bounds on absolutely maximally entangled states
  
- Any updates via pull requests (there is a button: edit this page) or email are appreciated.
+ Any updates via pull requests ("improve this page" button below) or email (felix.huber ät physik.uni-siegen.de) are appreciated.
