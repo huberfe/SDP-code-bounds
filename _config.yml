@@ -1,3 +1,7 @@
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+
+  defaults:
+    values:
+      layout: default
