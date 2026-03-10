@@ -27,7 +27,7 @@ Codes are marked with $$\ast$$ if lower and upper bounds meet.
 |---|---|---|---|---|
 | $$ 4 $$| $$[\![ 4   , 0 , 3 ]\!]_4 $$| $$[\![ 4  , 0 , 3 ]\!]_4 $$| $$\ast$$ | Hermitean |
 | $$ 6 $$| $$[\![ 6   , 0 , 4 ]\!]_4 $$| $$[\![ 6  , 0 , 4 ]\!]_4 $$| $$\ast$$ | Rains~\cite{782103} |
-| $$ 8 $$| $$[\![ 8  , 0 , 5]\!]_4 $$| $$[\![ 6  , 2 , 3 ]\!]_4 $$  |        | Single-Error |
+| $$ 8 $$| $$[\![ 8  , 0 , 5]\!]_4 $$| $$[\![ 6  , 2 , 3 ]\!]_4 $$  |        | Single-Error | no $\!$[[7,1,4]\!]$$ stab code **[BMS24]** |
 | $$ 10 $$| $$[\![ 10 , 0 , 6 ]\!]_4 $$| $$[\![ 10 , 0 , 6 ]\!]_4 $$| $$\ast$$ | Gulliver et al. \cite{4608969} |
 | $$ 12 $$| $$[\![ 10 , 2 , 5 ]\!]_4 $$| $$[\![ 9  , 3 , 4 ]\!]_4 $$|        | Grassl/Rötteler~\cite{7282626} |
 | $$ 14 $$| $$[\![ 14 , 0 , 8 ]\!]_4 $$| $$[\![ 10 , 4 , 4 ]\!]_4 $$|        | shortening $$[\![18,12,4]\!]_4$$ |
@@ -73,7 +73,14 @@ Codes are marked with $$\ast$$ if lower and upper bounds meet.
 
 
 ## References and updates:
-Table based on Felix Huber, Markus Grassl, *Quantum Codes of Maximal Distance and Highly Entangled Subspaces*, Quantum 4, 284 (2020), [https://arxiv.org/abs/1907.07733](https://arxiv.org/abs/1907.07733)
+Table based on 
+Felix Huber, Markus Grassl, *Quantum Codes of Maximal Distance and Highly Entangled Subspaces*, Quantum 4, 284 (2020), [https://arxiv.org/abs/1907.07733](https://arxiv.org/abs/1907.07733)
+
+Updates from the original tables (2020)
+
+- **[BMS24]** Simeon Ball, Edgar Moreno, Robin Simoens, *Stabiliser codes over fields of even order*, [arXiv:2401.06618](https://arxiv.org/abs/2401.06618)
 
 Last updated: 3 March 2026
+
+
 
