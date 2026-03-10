@@ -30,8 +30,8 @@ A stronger SDP bound is highlighted in bold with the previous bound in parenthes
 
 $$
 \begin{align}\label{eq:pure_inf}
- &(\!(6,1,3)\!)_2 \,,  \quad  (\!(11,41,3)\!)_2 \,,  \quad  (\!(14,290,3)\!)_2 \,,  \nn \\
- &(\!(14,8,5)\!)_2 \,,   \quad  (\! (15,135,4)\!)_2\,, \quad (\!(17,57,5)\!)_2 \,, \quad (\!(19,7314,3)\!)_2 \,.
+ (\!(6,1,3)\!)_2 \,,  \quad  (\!(11,41,3)\!)_2 \,,  \quad  (\!(14,290,3)\!)_2 \,, 
+ (\!(14,8,5)\!)_2 \,,   \quad  (\! (15,135,4)\!)_2\,, \quad (\!(17,57,5)\!)_2 \,, \quad (\!(19,7314,3)\!)_2 \,.
 \end{align}
 $$
 
@@ -39,7 +39,7 @@ $$
 ## Some comments to specific codes:
 (add)
 
-## Updates since 5 March 2026:
+## Updates since 10 March 2026:
 (none)
 
 ## References
