@@ -19,5 +19,5 @@ This repository focuses on stronger or specialised bounds:
 ## Other sites:
  - [Quantum Max Cut](https://marwahaha.github.io/quantum-maxcut-reference/)
  - [Optimization Constants in Mathematics](https://teorth.github.io/optimizationproblems/)
- - [Code Tables](www.codetables.de)
+ - [Code Tables](https://www.codetables.de)
  
